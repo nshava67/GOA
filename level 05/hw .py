@@ -12,5 +12,3 @@ print("age:",age)
 user_account="random123"
 
 #მეხუთე დავალებაში კოდი გამოიტანს Ana და Luka
-
-print('Ana Puturidze' + 'Aleksandre Dzukaevi')

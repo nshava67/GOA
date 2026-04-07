@@ -19,5 +19,3 @@ surname = 'Shavidze'
 print(my_name + " " + surname)
 
 # 5)გადახედეთ ჩანაწერს და ჩაასწორეთ საკლასოები
-
-# done

@@ -30,3 +30,7 @@ print(first+""+second)
 one= int(input("აქ შეიყვანეთ პირველი რიცხვი"))
 two= int(input("აქ შეითანეთ მეორე რიცხვი"))
 print("ნამრვლი:", one * two)
+
+
+
+print(float(true+int(str(100)))+int(str(2)))

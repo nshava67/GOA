@@ -33,4 +33,4 @@ print("ნამრვლი:", one * two)
 
 
 
-print(float(true+int(str(100)))+int(str(2)))
+print(float(True+int(str(100)))+int(str(2)))

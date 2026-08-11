@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+Khudawadi&display=swap");
+
+#p-1 {
+  text-decoration: underline;
+}
+#p-2 {
+  text-transform: uppercase;
+  font-family:Noto Sans Khudawadi;
+}
+#p-3 {
+  text-shadow: 4px 3px 7px red;
+}
+
+ 

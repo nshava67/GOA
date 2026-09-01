@@ -1,0 +1,16 @@
+.paraghraph{
+  display: flex;
+  flex-direction: row;
+  padding:2px;
+  gap:10px;
+}
+
+.box{
+  background-color:blue;
+  color:white;
+  width:55px;
+  height:55px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
